@@ -79,8 +79,8 @@
   .textLayer .highlight {
     margin: -1px;
     padding: 1px;
-    background-color: rgba(180, 0, 170, 1);
-    border-radius: 4px;
+    background-color: rgb(243, 243, 0);
+    border-radius: 2px;
   }
 
   .textLayer .highlight.appended {
@@ -100,7 +100,7 @@
   }
 
   .textLayer .highlight.selected {
-    background-color: rgba(0, 100, 0, 1);
+    background-color: rgb(243, 243, 0);
   }
 
   .textLayer ::-moz-selection {
